@@ -13,7 +13,7 @@
     font-size: 30px;
     text-align: center;
 }
-.h1 Contact Us{
+.h1 Contact Us {
     color: Red;
     font-size: 30px;
     text-align: center;
@@ -21,13 +21,11 @@
 .img {
     text-align: center;
 }
-#bgimage {
-    background image;
-url(""https://images.unsplash.com/photo-1619335680796-54f13b88c6ba?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-
+#background {
+    background color: black;
 }
-h1 About {
+.h1 About {
     color: red;
     text-align: center;
-    font-size: 30px
+    font-size: 30px;
 }
