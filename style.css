@@ -3,17 +3,17 @@
     font-size: 20px;
     text-align: center;
 }
-.h1 home{
+h1 home{
     color: Red;
     font-size: 30px;
     text-align: center;
 }
-.h2 The car of the Day!{
+h2 {
     color: Red;
     font-size: 30px;
     text-align: center;
 }
-.h1 Contact Us {
+h1  {
     color: Red;
     font-size: 30px;
     text-align: center;
@@ -22,9 +22,9 @@
     text-align: center;
 }
 #background {
-    background color: black;
+    background-color: black;
 }
-.h1 About {
+h1 {
     color: red;
     text-align: center;
     font-size: 30px;
