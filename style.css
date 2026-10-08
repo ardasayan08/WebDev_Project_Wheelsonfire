@@ -24,8 +24,18 @@ h1  {
 #background {
     background-color: black;
 }
-h1 {
-    color: red;
+
+nav home {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+}
+nav about {
+    text-align: center;
+    font-size: 20px;
+}
+h1 {
+    color: Red;
+    font-family: 'black ops one', sans serif;
+    font-size: 40px;
+    text-align: center;
 }
